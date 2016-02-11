@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guillaume Pouilloux</title>
+    <link>http://gpouilloux.github.io/</link>
+    <description>Recent content on Guillaume Pouilloux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://gpouilloux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://gpouilloux.github.io/work/proj-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gpouilloux.github.io/work/proj-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-1/choco-ide.png&#34; alt=&#34;Choco IDE&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Online IDE to try out &lt;a href=&#34;http://choco-solver.org/&#34;&gt;Choco&lt;/a&gt;, a free and open-source software dedicated to Constraint Programming.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Used&lt;/strong&gt; : Javascript, JQuery, Twitter Bootstrap 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt; : Frontend developer&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;GitHub&lt;/strong&gt; : &lt;a href=&#34;https://github.com/chocoteam/choco-ide&#34;&gt;https://github.com/chocoteam/choco-ide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt; : &lt;a href=&#34;https://chocoide.herokuapp.com/&#34;&gt;https://chocoide.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
