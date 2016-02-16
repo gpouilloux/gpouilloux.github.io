@@ -792,6 +792,13 @@ footer {
   text-align: center;
   font-weight: 300; }
 
+.videocv {
+    max-width: 620px;
+    padding: 0 20px;
+    margin: 50px auto;
+    text-align: center;
+}
+
 .skill-lockup {
   max-width: 540px;
   margin: 100px auto;
@@ -903,7 +910,8 @@ footer {
     display: block;
     float: left;
     width: 25%;
-    cursor: pointer; }
+    cursor: pointer;
+    margin-left: 40px;}
     .thumb-container label .thumb-unit {
       display: block;
       overflow: hidden; }
