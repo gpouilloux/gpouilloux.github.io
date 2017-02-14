@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guillaume Pouilloux</title>
-    <link>http://gpouilloux.github.io/</link>
+    <link>http://gpouilloux.github.io/index.xml</link>
     <description>Recent content on Guillaume Pouilloux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -56,11 +56,11 @@
 
 &lt;p&gt;&lt;img src=&#34;img/work/proj-3/thumb.jpg&#34; alt=&#34;Gnome Shell extension for Docker&#34; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;motivation:f521650928eb6c61ae7fa95c67679c74&#34;&gt;Motivation&lt;/h4&gt;
+&lt;h4 id=&#34;motivation&#34;&gt;Motivation&lt;/h4&gt;
 
 &lt;p&gt;During a school project, I had to manage a lot of docker containers. Always going into a terminal to run &lt;code&gt;docker run xxx&lt;/code&gt; was not really productive, so I decided to develop this extension.&lt;/p&gt;
 
-&lt;h4 id=&#34;usage:f521650928eb6c61ae7fa95c67679c74&#34;&gt;Usage&lt;/h4&gt;
+&lt;h4 id=&#34;usage&#34;&gt;Usage&lt;/h4&gt;
 
 &lt;p&gt;When installing this extension, you will be able to manage your docker containers.&lt;/p&gt;
 

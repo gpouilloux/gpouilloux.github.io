@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gpouilloux.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://gpouilloux.github.io/work/proj-1/</loc>
   </url>
   
@@ -16,6 +11,16 @@
   
   <url>
     <loc>http://gpouilloux.github.io/work/proj-3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gpouilloux.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gpouilloux.github.io/work/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
